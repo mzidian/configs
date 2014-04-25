@@ -1,16 +1,16 @@
 [user]
-	name = Matthew Zidian
-	email = matt@blendlabsinc.com
+  name = Matthew Zidian
+  email = matt@blendlabsinc.com
 [branch]
-	autosetuprebase = always
+  autosetuprebase = always
 [core]
-	editor = vim
+  editor = vim
 [alias]
   s = status
   c = commit -am
   co = checkout
   b = branch
   br = branch -r
-	d = diff
+  d = diff
   l = log
   lp = log -p
